@@ -1,0 +1,14 @@
+Model,Settings,Validation PR-AUC,Validation ROC-AUC
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 1}",0.8716930615301988,0.9814002895844328
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 3}",0.8772771892398904,0.986447719184292
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 5}",0.8667164512346932,0.9836263007618505
+Random Forest,"{'max_depth': 10, 'min_samples_leaf': 1}",0.8659913196004618,0.9898645448517572
+Random Forest,"{'max_depth': 10, 'min_samples_leaf': 3}",0.8752463267361336,0.9855072463768116
+Random Forest,"{'max_depth': 10, 'min_samples_leaf': 5}",0.8733472570927152,0.9890390938984289
+Random Forest,"{'max_depth': 20, 'min_samples_leaf': 1}",0.8800797103932678,0.9817453551468898
+Random Forest,"{'max_depth': 20, 'min_samples_leaf': 3}",0.8772771892398904,0.986447719184292
+Random Forest,"{'max_depth': 20, 'min_samples_leaf': 5}",0.8665789327556476,0.9835992367961677
+Logistic Regression,{'C': 0.01},0.38147592179590223,0.8788616896033775
+Logistic Regression,{'C': 0.1},0.3926738550806297,0.9007699698236782
+Logistic Regression,{'C': 1},0.3560912752616173,0.9047889687275876
+Logistic Regression,{'C': 10},0.34653103229919185,0.903706410100272

@@ -1,0 +1,11 @@
+Learning Rate,Random Seed,Optimizer,Architecture,Loss,Batch Size,Max Epochs,Early Stopping Patience,Epochs Run,Validation PR-AUC,Validation ROC-AUC
+0.001,11,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,50,0.7338892077300804,0.9737614852704366
+0.001,22,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,46,0.7194321238566594,0.9743568925154604
+0.001,33,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,31,0.6249330111022439,0.9611226132965263
+0.001,44,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,60,0.6896190530375562,0.9707709170624772
+0.001,55,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,59,0.682958603575572,0.9686057998078459
+0.0005,11,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,60,0.6587644418853135,0.9692553349842352
+0.0005,22,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,60,0.6852725176598827,0.9704596814571239
+0.0005,33,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,44,0.5943593882710945,0.9591198798359923
+0.0005,44,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,60,0.6461139380375271,0.9653039959945331
+0.0005,55,Adam,"32-ReLU, Dropout 0.2, 16-ReLU, 1-sigmoid",binary_crossentropy,64,60,8,60,0.6241853071103601,0.959837074926589

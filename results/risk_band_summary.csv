@@ -1,0 +1,4 @@
+Risk Level,Records,Actual_Failures,Failure rate (%)
+Low,1456,9,0.62
+Medium,9,7,77.78
+High,35,35,100.0

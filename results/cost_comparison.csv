@@ -1,0 +1,4 @@
+Model,Best validation threshold,Validation cost,Test false positives,Test false negatives,Test recall,Test hypothetical cost
+Logistic Regression,0.51,30100,222,5,0.9019607843137255,27200
+Random Forest,0.33,7500,2,9,0.8235294117647058,9200
+ANN,0.52,20400,125,9,0.8235294117647058,21500

@@ -1,0 +1,9 @@
+i have used sigmoid fuc - 
+training adam optimer reason of using of ao- this is better at handiling both momenturm  and  handhling wts and bias 
+here we are used bbinary loss function
+y btch size is 256 epoch=20
+threshold =0.5 for base line mlp
+
+slide 10- 6.74% - wt is issue with 6.74% of recal value
+
+y 0.56 wt for cls 0 y 4.33 for cls 1 anyreason this value 

@@ -1,0 +1,5 @@
+Feature set,Model,Validation PR-AUC,Validation ROC-AUC
+Original features (6),Logistic Regression,0.3848164129484088,0.8748562226823097
+Original features (6),Random Forest,0.6647304219899686,0.9690185252845098
+Original + engineered (9),Logistic Regression,0.3926738550806297,0.9007699698236782
+Original + engineered (9),Random Forest,0.8800797103932678,0.9817453551468898
